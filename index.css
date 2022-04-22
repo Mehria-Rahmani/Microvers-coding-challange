@@ -1,0 +1,22 @@
+body{
+    background-color: whitesmoke;
+
+}
+#title{
+    text-align: center;
+    padding: 12px;
+    background-color: grey;
+}
+#title h2{
+    font-size: xx-large;
+}
+#title h5{
+    font-style: italic;
+}
+#image{
+    margin-top: 10px;
+    text-align: center;
+}
+#image img{
+    width: 55vw;
+}
